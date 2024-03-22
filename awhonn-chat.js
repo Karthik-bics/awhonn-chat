@@ -121,5 +121,5 @@ class AwhonnChatbox {
   }
 }
 
-const chatbox = new Chatbox();
+const chatbox = new AwhonnChatbox();
 chatbox.display();
