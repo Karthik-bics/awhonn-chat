@@ -24,7 +24,7 @@ class AwhonnChatbox {
                 </div>
             </div>
             <div class="awhonn_chatbox__button">
-                <button><img src="./images/chatbox-icon.svg" /></button>
+                <button><img src="https://cdn.jsdelivr.net/gh/karthik-bics/awhonn-chat/chatbox-icon.svg" /></button>
             </div>
         </div>`,
     };
